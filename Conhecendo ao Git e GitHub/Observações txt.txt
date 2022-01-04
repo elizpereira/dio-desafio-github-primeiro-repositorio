@@ -1,9 +1,9 @@
 1 - Curso introdutório do Git/GitHub da DIO: https://web.dio.me/course/introducao-ao-git-e-ao-github
 2 - Link para download do Git: https://git-scm.com/downloads
 3 - O Git Bash é um terminal extendido para o uso do Git 
-4 - Clonar o projeto do repositório para máquina local utilizar o código de comando gift clone e colar o link do repositório
-5) Código cd e incluir o endereço do repositório: exemplo: cd dio-desafio-github-primeiro-repositorio e dar enter
-6) Gift status: On branch main / Your branch is up to date with 'origin/main'
+4 - Clonar o projeto do repositório para máquina local utilizar o código de comando git clone e colar o link do repositório
+5 - Código cd e incluir o endereço do repositório: exemplo: cd dio-desafio-github-primeiro-repositório
+6 - Git status: On branch main / Your branch is up to date with 'origin/main'
 
 Obs. Objetivo do Desafio: criar novos projetos/organizar pastas etc.
 
